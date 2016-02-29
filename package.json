@@ -1,0 +1,25 @@
+{
+  "name": "vclone",
+  "version": "1.0.0",
+  "description": "clone a repo with repo deps and link them up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/vclone.git"
+  },
+  "keywords": [
+    "git",
+    "repo",
+    "dependencies",
+    "development"
+  ],
+  "author": "vigour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/vclone/issues"
+  },
+  "homepage": "https://github.com/vigour-io/vclone#readme"
+}
